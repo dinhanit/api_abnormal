@@ -4,8 +4,7 @@
    + Install package
         ```bash
         pip install requirements
-        ./install.sh
-   +Run Test.py
+   + Run Test.py
         ```bash
         python Test.py
 
