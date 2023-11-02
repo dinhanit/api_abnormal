@@ -2,7 +2,7 @@
 - Demo on python
    + Install package
         ```bash
-        pip install requirements
+        pip install requirements.txt
    + Run Test.py
         ```bash
         python Test.py
