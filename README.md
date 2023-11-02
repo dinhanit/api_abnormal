@@ -1,5 +1,4 @@
 # api_abnormal
-# Using docker to test api
 - Demo on python
    + Install package
         ```bash
