@@ -1,5 +1,14 @@
 # api_abnormal
 # Using docker to test api
+- Demo on python
+   + Install package
+        ```bash
+        pip install requirements
+        ./install.sh
+   +Run Test.py
+        ```bash
+        python Test.py
+
 - Demo on fastapi
    + Setup docker
         ```bash
